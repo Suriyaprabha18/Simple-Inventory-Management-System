@@ -1,0 +1,62 @@
+[
+  {
+    "productId": 1,
+    "productName": "Veg Rolls",
+    "description": "Preferred by Both Vegetarains and Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 2,
+    "productName": "Chicken Manchuria",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 4,
+    "productName": "Burger",
+    "description": "Fast food item",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "Pizza",
+    "description": "Cheesy snack",
+    "Stock": true
+  },
+  {
+    "productId": 6,
+    "productName": "Sandwich",
+    "description": "Light food",
+    "Stock": false
+  },
+  {
+    "productId": 7,
+    "productName": "Fried Rice",
+    "description": "Rice dish",
+    "Stock": true
+  },
+  {
+    "productId": 8,
+    "productName": "Pasta",
+    "description": "Italian dish",
+    "Stock": true
+  },
+  {
+    "productId": 9,
+    "productName": "Samosa",
+    "description": "Tea snack",
+    "Stock": true
+  },
+  {
+    "productId": 10,
+    "productName": "Ice Cream",
+    "description": "Dessert",
+    "Stock": false
+  },
+  {
+    "productId": 11,
+    "productName": "Milk Shake",
+    "description": "Cool drink",
+    "Stock": true
+  }
+]
